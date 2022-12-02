@@ -1,0 +1,50 @@
+#layout {
+    color: #493D32;
+    font-size: 17px;
+    font-family: Abel;
+    margin: 0;
+    --accent-faded: rgba(35,35,35,0.5);
+    --accent: #232323;
+    --accent_positive: #33ffe6;
+    --accent_negative: #ff2c6d;
+    --background_content: #F2E9DD;
+    --background_page: #E8DAC5;
+    --report_text: black;
+    --border: #d3bd98;
+    --border_style: [object Object];
+    --breakpoint_font: 1200px;
+    --breakpoint_stack_blocks: 700px;
+    --colorway-0: #232323;
+    --colorway-1: #d95f02;
+    --colorway-2: #1b9e77;
+    --colorway-3: #7570b3;
+    --colorway-4: #e7298a;
+    --colorway-5: #66a61e;
+    --colorway-6: #e6ab02;
+    --colorway-7: #a6761d;
+    --colorscale-0: #232323;
+    --colorscale-1: #363636;
+    --colorscale-2: #4b4b4b;
+    --colorscale-3: #606060;
+    --colorscale-4: #777777;
+    --colorscale-5: #8e8e8e;
+    --colorscale-6: #a6a6a6;
+    --colorscale-7: #bebebe;
+    --colorscale-8: #d7d7d7;
+    --colorscale-9: #f1f1f1;
+    --report_font_family: Computer Modern;
+    --font_family: Abel;
+    --font_family_header: PT Serif;
+    --font_family_headings: PT Serif;
+    --font_size: 17px;
+    --font_size_smaller_screen: 15px;
+    --font_size_header: 24px;
+    --text: #493D32;
+    --report_background_content: #FAFBFC;
+    --report_background_page: white;
+    --report_font_size: 12px;
+}
+
+body {
+    margin:0
+}

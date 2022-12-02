@@ -1,0 +1,43 @@
+#graphs-div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap:13px;
+    width: 987px;
+}
+
+.GraphDiv {
+    min-width: 724.93px;
+    background-color: #F2E9DD;
+    padding:10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
+}
+
+.GraphTitle {
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom:8px;
+    align-items: center;
+    margin: 0;
+    background-color:#F2E9DD;
+    border-bottom: #d3bd98 thin solid;
+    color:#493D32;
+}
+
+.SpecGraphTitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom:8px;
+    align-items: flex-end;
+    margin: 0;
+    background-color:#F2E9DD;
+    border-bottom: #d3bd98 thin solid;
+    color:#493D32;
+}
+
+.SpecDropDown {
+    width:21%
+}
